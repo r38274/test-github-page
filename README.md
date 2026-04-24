@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-<link rel="stylesheet" href="style.css">
-</head>
 <body>
-<h1>Test Github Page</h1>
+<h1 style="font-family: Comfortaa, semi-bold;">Test Github Page</h1>
 </body>
-
-
 </html>
